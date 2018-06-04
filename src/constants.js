@@ -1,0 +1,2 @@
+export const RECEIVE_MEMES = "RECEIVE_MEMES";
+export const CREATE_NEW_MEME = "CREATE_NEW_MEME";
