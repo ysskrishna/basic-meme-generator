@@ -1,7 +1,16 @@
 {
   "name": "meme_generator",
   "version": "0.1.0",
-  "private": true,
+  "author": "ysskrishna",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "redux",
+    "imgflip",
+    "meme",
+    "meme-generation",
+    "meme-generator"
+  ],
   "dependencies": {
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.1",
